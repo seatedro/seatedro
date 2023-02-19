@@ -13,9 +13,9 @@
 
 - 📫 How to reach me **rohitp934@gmail.com**
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=rohitp934&show_icons=true&theme=dark&locale=en" alt="rohitp934" />
+<img align="left" src="https://stats.rohitprakash.dev/api?username=rohitp934&show_icons=true&theme=radical&locale=en&count_private=true" alt="rohitp934" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitp934&show_icons=true&theme=dark&locale=en&layout=compact" alt="rohitp934" />
+<img align="center" src="https://stats.rohitprakash.dev/api/top-langs?username=rohitp934&show_icons=true&theme=radical&locale=en&layout=compact&hide=jupyter%20notebook,purebasic,dart,scss,ruby&langs_count=8" alt="rohitp934" />
 
 <br/>
 <h3>Connect with me:</h3>
