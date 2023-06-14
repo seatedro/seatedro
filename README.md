@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [rustycoding](https://github.com/rohitp934/rustycoding)
 
-- 🌱 Looking forward to learn Nuxt, Go, and Rust!**
+- 🌱 Looking forward to learn **Nuxt, Go, and Rust!**
 
 - 👯 I’m looking to collaborate on **any Node/React/Rust repo**
 
