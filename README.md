@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [rustycoding](https://github.com/rohitp934/rustycoding)
 
-- 🌱 I’m currently learning **Next.Js, Svelte, Rust**
+- 🌱 Looking forward to learn Nuxt, Go, and Rust!**
 
 - 👯 I’m looking to collaborate on **any Node/React/Rust repo**
 
