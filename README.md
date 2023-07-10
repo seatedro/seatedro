@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Prakash</h1>
 <h3 align="center">I love all things full-stack 👨‍💻 with no GC on the side 🦀.</h3>
 
-- 🔭 I’m currently working on [rustycoding](https://github.com/rohitp934/rustycoding)
+- 🔭 I’m currently working on [Mira(me)](https://github.com/rohitp934/mirame)
 
 - 🌱 Looking forward to learn **Nuxt, Go, and Rust!**
 
