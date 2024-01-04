@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rohit Prakash</h1>
 <h3 align="center">I love all things full-stack 👨‍💻 with no GC on the side 🦀.</h3>
 
-- 🔭 I’m currently working on [Mira(me)](https://github.com/rohitp934/mirame)
+- 🔭 I’m currently working on [Guam](https://github.com/rohitp934/guam)
 
-- 🌱 Looking forward to learn **Nuxt, Go, and Rust!**
-
-- 👯 I’m looking to collaborate on **any Node/React/Rust repo**
+- 🌱 Looking forward to learn **Zig, Go, and Rust!**
 
 - 👨‍💻 All of my projects are available at [https://rohitprakash.dev](https://rohitprakash.dev)
-
-- 💬 Ask me about **Angular, React, Node, TypeScript**
 
 - 📫 How to reach me **rohitp934@gmail.com**
 
